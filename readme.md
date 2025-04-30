@@ -10,7 +10,7 @@ A Java game built using Swing where players guess a 4-digit secret code.
 - Simple and engaging GUI built with Java Swing
 
 ## 🎥 Demo
-You can find the demo video inside the `demo/` folder or watch it [here](demo/demo.mp4).
+You can find the demo video inside the `demo/` folder .
 
 ## 🛠 How to Run
 1. Make sure you have Java installed (JDK 8 or higher).
